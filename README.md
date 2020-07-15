@@ -6,4 +6,4 @@ This is my first simple commmit.
 
 Just some updates.
 
-Update
+Just some changes
